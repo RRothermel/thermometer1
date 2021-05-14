@@ -5,6 +5,10 @@
 ### This thermometer project is in early stages of development and currently has:
 - a working temperature sensor attached to the breadboard and Arduino Uno
 - a display of humidity and temperature in Celsius and approximated Farenheit in the serial monitor
+- a display of temperature in tens on a 1-digit LCD screen (ex: 76 degrees F reads as "7")
 
 ### We are currently working on:
 - displaying the temperature on a LCD screen attached to the breadboard
+
+### Planning on:
+- using a 4-digit LCD
