@@ -2,7 +2,10 @@
 
 ## This project is being worked on by Ryan Rothermel and Jack Gartner (also the crab)
 
-## Required Arduino Libraries for Operation:
+### Required Arduino Libraries for Operation:
+
+- Disclaimer: some libraries may not be completely necassary
+
 - DHT sensor library (Adafruit)
 - DHT sensor library for ESPx (beegee_tokyo)
 - DHTlib (Rob Tillaart
