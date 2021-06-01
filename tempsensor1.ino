@@ -1,6 +1,11 @@
+// Ryan Rothermel and Jack Gartner
 #include <dht.h>
 
-// assigning the pins to different segments in the single digit display
+// Works Cited
+// DHT11 Temperature Sensor code: https://create.arduino.cc/projecthub/techno_z/dht11-temperature-humidity-sensor-98b03b
+// How the single digit seven segment display works: https://osoyoo.com/2017/07/18/arduino-lesson-one-digit-7-segment-led-display/
+
+// Variables assigning the pins to different segments in the single digit display
 #define dht_apin A0 // Analog Pin sensor is connected to
 #define segA 2// connecting segment A to PIN2
 #define segB 3// connecting segment B to PIN3
